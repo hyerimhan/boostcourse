@@ -7,3 +7,9 @@
 - 입력과 출력2 - [C언어 기초] (opentutorials.org) (https://opentutorials.org/module/3921/23575)
 
 ```c
+//```뒤에 자신이 원하는 언어 (생략 가능)
+#include <stdio.h>
+int main(void) {
+  printf("Hello World!");
+}
+```
