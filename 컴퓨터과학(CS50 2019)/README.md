@@ -8,4 +8,4 @@
 
 # 수료증
 
-<img src="http://www.boostcourse.org/certificate/A20220612-926657?langCode=ko" width="100%"/>
+<img src="../../certificate_A20220612-926657_1.png" width="100%"/>
