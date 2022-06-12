@@ -9,3 +9,5 @@
 # 수료증
 
 ![certificate_A20220612-926657_1](https://user-images.githubusercontent.com/64674174/173239344-b9e7932b-41f8-4c0f-87b6-0f2334281dbb.png)
+
+<img src="certificate_A20220612-926657_1.png" width="100%"/>
