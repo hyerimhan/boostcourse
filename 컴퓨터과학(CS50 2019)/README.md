@@ -7,4 +7,4 @@
 - 입력과 출력2 - [C언어 기초] (opentutorials.org) (https://opentutorials.org/module/3921/23575)
 
 # 수료증
-![certificate_A20220612-926657_1](https://user-images.githubusercontent.com/64674174/173239004-ec576c8a-348a-40fe-a047-904afd9cc52e.png) {: width="100%"}
+![certificate_A20220612-926657_1](https://user-images.githubusercontent.com/64674174/173239004-ec576c8a-348a-40fe-a047-904afd9cc52e.png){: width="100" height="100"}
