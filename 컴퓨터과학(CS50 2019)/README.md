@@ -6,6 +6,6 @@
 - CS50 라이브러리 문서 (https://cs50.readthedocs.io/libraries/cs50/c/)
 - 입력과 출력2 - [C언어 기초] (opentutorials.org) (https://opentutorials.org/module/3921/23575)
 
-<br/>
 # 수료증
+
 ![certificate_A20220612-926657_1](https://user-images.githubusercontent.com/64674174/173239344-b9e7932b-41f8-4c0f-87b6-0f2334281dbb.png)
