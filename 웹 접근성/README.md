@@ -14,6 +14,4 @@
 - 웹 표준 검사 (접근성 오류, 마크업 오류 확인) [W3C Validation] (https://validator.w3.org/)
 - 접근성 자동 진단 [OpenWax] (https://chrome.google.com/webstore/detail/openwax/bfahpbmaknaeohgdklfbobogpdngngoe?hl=ko)
 
-## 스크린리더
-
 <br/>
